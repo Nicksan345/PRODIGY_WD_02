@@ -13,7 +13,7 @@ This is a simple and responsive **Stopwatch Web Application** built using **HTML
 - 🟢 Start the timer
 - 🔴 Stop (pause) the timer
 - 🔁 Reset the timer to 00:00:00:000
-- Displays time in **HH:MM:SS:MS** format
+- Displays time in **HH:MM:SS** format
 - Smooth and accurate time counting
 - Fully responsive design for all screen sizes
 
